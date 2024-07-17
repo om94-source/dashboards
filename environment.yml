@@ -36,6 +36,7 @@ dependencies:
       - markupsafe==2.1.5
       - mdurl==0.1.2
       - numpy==2.0.0
+      - plost==0.2.5
       - packaging==24.1
       - pandas==2.2.2
       - pillow==10.4.0
